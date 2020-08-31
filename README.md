@@ -2,7 +2,7 @@
 
 ## I'm a Data Scientist/AI Developer.
 - 🔭 I’m currently working on a Deep Learning!
-- 🌱 I’m currently learning Big about Data and Cloud based technologies
+- 🌱 I’m currently learning Big Data and Cloud based technologies
 - 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love playing FPS games and Trekking 
 
